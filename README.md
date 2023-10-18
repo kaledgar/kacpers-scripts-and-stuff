@@ -9,6 +9,16 @@ Count rows in table
 SELECT COUNT(*) FROM table
 ```
 
+Best Query to test connection
+
+```SQL
+-- oracle
+SELECT 1 FROM DUAL
+
+-- MySql / Redshift
+SELECT 1
+```
+
 ## Formatting SQL
 
 SQLfluff is great for formatting SQL
