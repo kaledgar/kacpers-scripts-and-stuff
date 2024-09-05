@@ -1,5 +1,3 @@
-# my-cloud-and-data-engineering-cheatsheet
-My cloud/ data engineering/ devops / dev eveything cheatsheet.
 
 ## Formatting SQL
 
